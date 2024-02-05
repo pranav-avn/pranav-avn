@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, Pranav here 👋
 
-<!--
-**pranav-avn/pranav-avn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 19 year old Electrical and Electronics Engineering Student at REC Chennai
+- Technology YouTube Channel of 800 subscribers and 50K Views 📺
+- Intermediate Python Programmer 🧑‍💻
+- Intrigued by Microprocessors 🖥️
+- Nerd for Movies, Cars and Astronomy
 
-Here are some ideas to get you started:
+## Connect with me
+- [YouTube](http://youtube.com/c/pranavavn)
+- [Twitter](www.twitter.com/pranav_avn)
+- [LinkedIn](https://www.linkedin.com/in/pranav-avn)
+- [Creative Portfolio](www.pranavavn.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ongoing Projects
+- [8080-emu: Intel x86 Architecture Study](https://github.com/pranav-avn/8080-emu)
