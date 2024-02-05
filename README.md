@@ -6,7 +6,7 @@ I am a 19 year old Electrical and Electronics Engineering Student at REC Chennai
 - Intrigued by Microprocessors 🖥️
 - Nerd for Movies, Cars and Astronomy
 
-## Connect with me
+### Connect with me
 - [YouTube](http://youtube.com/c/pranavavn)
 - [Twitter](https://twitter.com/pranav_avn)
 - [LinkedIn](https://linkedin.com/in/pranav-avn)
