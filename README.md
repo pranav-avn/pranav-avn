@@ -2,7 +2,7 @@
 
 I am a 19 year old Electrical and Electronics Engineering Student at REC Chennai
 - Technology YouTube Channel of 800 subscribers and 50K Views 📺
-- Intermediate Python Programmer 🧑‍💻
+- Intermediate Python and C Programmer 🧑‍💻
 - Intrigued by Microprocessors 🖥️
 - Nerd for Movies, Cars and Astronomy 🪐
 
