@@ -14,3 +14,5 @@ I am a 19 year old Electrical and Electronics Engineering Student at REC Chennai
 
 ### Ongoing Projects
 - [8080-emu: Intel x86 Architecture Study](https://github.com/pranav-avn/8080-emu)
+- [Learning Rust](https://github.com/pranav-avn/rust_net)
+- [Learning Verilog](https://github.com/pranav-avn/Verilog)
